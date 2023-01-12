@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "s",
+        "s"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:stone_brick_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_bricks",
+        "count": 1
+    }
+}
